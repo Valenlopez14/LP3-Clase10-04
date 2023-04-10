@@ -1,0 +1,11 @@
+C:\Users\Alumno\source\repos\pryClinica.10\pryClinica.10\bin\Debug\pryClinica.10.exe.config
+C:\Users\Alumno\source\repos\pryClinica.10\pryClinica.10\bin\Debug\pryClinica.10.exe
+C:\Users\Alumno\source\repos\pryClinica.10\pryClinica.10\bin\Debug\pryClinica.10.pdb
+C:\Users\Alumno\source\repos\pryClinica.10\pryClinica.10\obj\Debug\pryClinica.10.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\pryClinica.10\pryClinica.10\obj\Debug\pryClinica._10.frmConsulta.resources
+C:\Users\Alumno\source\repos\pryClinica.10\pryClinica.10\obj\Debug\pryClinica._10.Properties.Resources.resources
+C:\Users\Alumno\source\repos\pryClinica.10\pryClinica.10\obj\Debug\pryClinica.10.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\pryClinica.10\pryClinica.10\obj\Debug\pryClinica.10.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\pryClinica.10\pryClinica.10\obj\Debug\pryClinica.10.exe
+C:\Users\Alumno\source\repos\pryClinica.10\pryClinica.10\obj\Debug\pryClinica.10.pdb
+C:\Users\Alumno\source\repos\pryClinica.10\pryClinica.10\obj\Debug\pryClinica._10.frm2.resources
